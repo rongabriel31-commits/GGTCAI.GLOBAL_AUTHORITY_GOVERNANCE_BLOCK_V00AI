@@ -318,3 +318,50 @@ Better Reading systems
 AI Governance
 
 Semantic AI alignment
+
+📚 REPOSITORY CLASSIFICATION SYSTEM
+
+Repository Type
+
+Purpose
+
+Canonical Repository
+
+Core infrastructure
+
+Governance Repository
+
+Policy continuity
+
+Educational Repository
+
+Learning systems
+
+Semantic Repository
+
+Metadata systems
+
+Archive Repository
+
+Historical preservation
+
+GUI Repository
+
+Visual continuity
+
+Operational Repository
+
+Coordination systems
+
+AI Repository
+
+Intelligent infrastructure
+
+NAMING CONVENTION
+
+Canonical Structure
+
+GGTCAI.GLOBAL_[CATEGORY]_[SYSTEM]_[VERSION]
+
+Example Structures
+
